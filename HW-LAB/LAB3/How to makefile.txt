@@ -1,0 +1,15 @@
+Just as normal , I use the -O2 options to make the compiled codes more efficient
+
+type 'make' in local dir
+and then run the MIPS file 
+
+
+-----------------
+
+Name your zip folder yournetid_partnersnetid 
+Inside your zip only have your cpp or header files and PDF file with the analysis plot
+Your code should compile using g++ branchsimulator.cpp -o branchsimulator.out
+Only include your Makefile if its absolutely nessary for you to do something differently
+Your code should not print ANYTHING in the terminal
+Your output text file should be trace.txt.out
+Make sure your code terminates after all entries in the trace.txt are over

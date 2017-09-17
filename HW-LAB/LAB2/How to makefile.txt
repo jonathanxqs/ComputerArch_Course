@@ -1,0 +1,4 @@
+Just as normal , I use the -O2 options to make the compiled codes more efficient
+
+type 'make' in local dir
+and then run the MIPS file 
